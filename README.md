@@ -34,6 +34,11 @@ I am eager to apply analytical and problem-solving skills to support a cybersecu
     <img src="https://img.shields.io/badge/-Google%20Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</div>
+
 ### Threat and Vulnerability Assessment
 <div>
     <img src="https://img.shields.io/badge/-SRA%20Toolkit-4A90E2?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNMSAyYTEgMSAwIDAgMSAxLTEgaDEyYTEgMSAwIDAgMSAxIDF2MTJhMSAxIDAgMCAxLTEgMUgyYTEgMSAwIDAgMS0xLTFWMm0xLjUgMS41djEwTDYuNzUgOGwzLjctNC41eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=;logoColor=white" />
