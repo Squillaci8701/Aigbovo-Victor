@@ -38,3 +38,15 @@ I am eager to apply analytical and problem-solving skills to support a cybersecu
 <div>
     <img src="https://img.shields.io/badge/-SRA%20Toolkit-4A90E2?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNMSAyYTEgMSAwIDAgMSAxLTEgaDEyYTEgMSAwIDAgMSAxIDF2MTJhMSAxIDAgMCAxLTEgMUgyYTEgMSAwIDAgMS0xLTFWMm0xLjUgMS41djEwTDYuNzUgOGwzLjctNC41eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=;logoColor=white" />
 </div>
+
+## Certfications
+<div>
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Intro%20to%20Cybersecurity-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Summit%20Systems%20Cybersecurity%20GRC%20Certificate-2E86C1?&style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst%20Certificate-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+## Projects
+- Google Virtual Labs
+- Gap Assessment for Pear SDC
